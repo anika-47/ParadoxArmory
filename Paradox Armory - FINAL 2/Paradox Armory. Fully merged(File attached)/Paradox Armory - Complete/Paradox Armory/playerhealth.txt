@@ -1,0 +1,62 @@
+PLAYER HEALTH FILE
+Records: 10
+
+Level: 4
+Part: 0
+Health: 15770
+MaxHealth: 20000
+Result: LEFT
+
+Level: 3
+Part: 3
+Health: 25590
+MaxHealth: 29000
+Result: LEFT
+
+Level: 4
+Part: 0
+Health: 14210
+MaxHealth: 20000
+Result: LEFT
+
+Level: 4
+Part: 0
+Health: 20000
+MaxHealth: 20000
+Result: LEFT
+
+Level: 4
+Part: 0
+Health: 7980
+MaxHealth: 20000
+Result: GAMEOVER
+
+Level: 4
+Part: 0
+Health: 19775
+MaxHealth: 20000
+Result: LEFT
+
+Level: 4
+Part: 0
+Health: 9140
+MaxHealth: 20000
+Result: LEFT
+
+Level: 3
+Part: 1
+Health: 29000
+MaxHealth: 30000
+Result: LEFT
+
+Level: 3
+Part: 3
+Health: 0
+MaxHealth: 29000
+Result: GAMEOVER
+
+Level: 4
+Part: 0
+Health: 7810
+MaxHealth: 20000
+Result: GAMEOVER
