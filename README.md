@@ -142,9 +142,9 @@ Paradox Armory - Complete/
 
 ## Project Contributors
 
-1. Samira Islam
-2. Anika Tasnim
-3. Arham Bin Zaheed
+1. Samira Islam(00725105101131)
+2. Anika Tasnim(00725105101133)
+3. Arham Bin Zaheed(00725105101145)
 
 
 ## Screenshots
