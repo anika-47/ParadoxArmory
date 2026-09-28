@@ -147,18 +147,9 @@ Paradox Armory - Complete/
 3. Arham Bin Zaheed (00725105101145)
 
 
-## Screenshots
-
-### **Menu**
-
-<img src="ADD_MENU_SCREENSHOT_LINK" width="200" height="200">
-
-### **Gameplay**
-
-<img src="ADD_GAMEPLAY_SCREENSHOT_LINK" width="200" height="200">
 
 ## Youtube Link
-[Paradox Armory -]()
+[Paradox Armory -](https://www.youtube.com/playlist?list=PLIXb0UBL4A0Q)
 
 ## Project Report
-[Project Report: Paradox Armory]()
+[Project Report: Paradox Armory](https://drive.google.com/file/d/1vkfr8flCTyF3fpEfkyP9Pzs7N3r-86I7/view)
