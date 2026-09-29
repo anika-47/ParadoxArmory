@@ -149,7 +149,7 @@ Paradox Armory - Complete/
 
 
 ## Youtube Link
-[Paradox Armory -](https://www.youtube.com/playlist?list=PLIXb0UBL4A0Q)
+[Paradox Armory ](https://www.youtube.com/playlist?list=PLIXb0UBL4A0Q)
 
 ## Project Report
 [Project Report: Paradox Armory](https://drive.google.com/file/d/1vkfr8flCTyF3fpEfkyP9Pzs7N3r-86I7/view)
